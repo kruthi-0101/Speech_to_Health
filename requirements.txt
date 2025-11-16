@@ -1,0 +1,15 @@
+SpeechRecognition
+flask
+google-api-python-client
+kagglehub
+librosa
+matplotlib
+numpy
+openai-whisper
+pandas
+scikit-learn
+scipy
+seaborn
+torch
+torchaudio
+transformers
